@@ -1,0 +1,1 @@
+67400000000 # ./gap/gap00.peak.ev6 -l ./gap/ -q -m 192M < ./gap/gap.ref.in > ./gap/gap.1.out

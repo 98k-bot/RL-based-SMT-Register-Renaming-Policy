@@ -1,0 +1,22 @@
+
+
+  GalGel behnchmark submitted to SPEC2000 search programm
+________________________________________________________________________________
+
+
+ This is Ra-Fa case of the GAMM benchmark on the oscillatory instability
+ of convection in a laterally heated rectangular cavity.
+
+ Solution by global spectral Galerkin method.
+________________________________________________________________________________
+
+ Parameters:
+
+ Aspect ratio (length/height) =  4.0000000    
+ Prandtl number               = 0.15000000E-01
+
+ Number of basis functions in x-direction =  33
+ Number of basis functions in z-direction =  11
+________________________________________________________________________________
+
+

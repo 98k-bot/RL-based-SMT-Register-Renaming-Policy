@@ -1,0 +1,1 @@
+47600000000 # ./vpr/vpr00.peak.ev6 ./vpr/vpr_ref_net.in ./vpr/vpr_ref_arch.in ./vpr/vpr.place.out  -nodisp -place_only -init_t 5 -exit_t 0.005 -alpha_t 0.9412 -inner_num 2 > ./vpr/vpr.1.out
